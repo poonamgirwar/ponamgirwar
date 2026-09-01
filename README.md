@@ -18,7 +18,7 @@ Currently, I'm focused on strengthening my programming fundamentals and explorin
 🚀 Exploring the world of Computer Science
 🎯 Goal: Become a skilled programmer and create useful projects
 💻 Tech Stack
-<p align="left"> <img" width="45" height="45" alt="C"/> <img "xyz.pvtrtyuu"https://github.com/user-attachments/assets/e232dd2c-5346-42c8-87b8-6d754ee2ee7b" />
+<p align="left"> <img" width="45" height="45" alt="C"/> <img "xyz.pvt"https://github.com/user-attachments/assets/e232dd2c-5346-42c8-87b8-6d754ee2ee7b" />
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/> </p>
 
 Currently working with:
