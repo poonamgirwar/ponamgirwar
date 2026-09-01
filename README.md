@@ -18,7 +18,8 @@ Currently, I'm focused on strengthening my programming fundamentals and explorin
 🚀 Exploring the world of Computer Science
 🎯 Goal: Become a skilled programmer and create useful projects
 💻 Tech Stack
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/> </p>
+<p align="left"> <img" width="45" height="45" alt="C"/> <img <img width="435" height="580" alt="image" src="https://github.com/user-attachments/assets/e232dd2c-5346-42c8-87b8-6d754ee2ee7b" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/> </p>
 
 Currently working with:
 
